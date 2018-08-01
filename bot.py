@@ -19,7 +19,7 @@ def jugar_handler(m):
     p = random.choice(preguntas)
     teclado = types.InlineKeyboardMarkup()
     teclado.add(types.InlineKeyboardButton("Sacar otra carta", callback_data="carta"))
-    mensaje = "Estas son tus preguntas:\n\n- *VC* - _{}_\n- *I*: _{}_\n- *S*: _{}_\n- *C*: _{}_\n- *G*: _{}_\n- *FP*: _{}_\n\nHaz click en *'Sacar otra carta'* para que el siguiente jugador vea nuevas preguntas."
+    mensaje = "Estas son tus preguntas:\n\n- 👸🏻 *VC* - _{}_\n- 💭 *I*: _{}_\n- 😜 *S*: _{}_\n- 👤 *C*: _{}_\n- 💣 *G*: _{}_\n- 📚 *FP*: _{}_\n\nHaz click en *'Sacar otra carta'* para que el siguiente jugador vea nuevas preguntas."
     bot.send_message(cid, mensaje.format(p['vida_cotidiana'],
                                          p['imaginario'],
                                          p['sexo'],
@@ -34,7 +34,7 @@ def carta_hander(call):
     p = random.choice(preguntas)
     teclado = types.InlineKeyboardMarkup()
     teclado.add(types.InlineKeyboardButton("Sacar otra carta", callback_data="carta"))
-    mensaje = "Estas son tus preguntas:\n\n- *VC* - _{}_\n- *I*: _{}_\n- *S*: _{}_\n- *C*: _{}_\n- *G*: _{}_\n- *FP*: _{}_\n\nHaz click en *'Sacar otra carta'* para que el siguiente jugador vea nuevas preguntas."
+    mensaje = "Estas son tus preguntas:\n\n- 👸🏻*VC* - _{}_\n- 💭 *I*: _{}_\n- 😜 *S*: _{}_\n- 👤 *C*: _{}_\n- 💣 *G*: _{}_\n- 📚 *FP*: _{}_\n\nHaz click en *'Sacar otra carta'* para que el siguiente jugador vea nuevas preguntas."
     bot.edit_message_text(mensaje.format(p['vida_cotidiana'],
                                              p['imaginario'],
                                              p['sexo'],
