@@ -1,418 +1,418 @@
 [
-    {
-        "vida_cotidiana": "\u00bfQu\u00e9 cualidad es la que m\u00e1s te gusta de ti mismo?",
-        "imaginario": "\u00bfA qu\u00e9 personaje de Friends te sientes m\u00e1s cercano?",
-        "sexo": "\u00bfQu\u00e9 te gusta hacer despu\u00e9s del sexo?",
-        "cultura": "\u00bfCu\u00e1les son las tres obras que te llevar\u00edas a una isla desierta?",
-        "gore": "Si el amor de tu vida te confesara que est\u00e1 siendo buscado por asesinato, \u00bfqu\u00e9 har\u00edas?",
-        "filosofia_progreso": "\u00bfQu\u00e9 es la locura?"
-    },
-    {
-        "vida_cotidiana": "\u00bfQu\u00e9 es lo peor que te podr\u00eda pasar?",
-        "imaginario": "\u00bfQu\u00e9 personaje de Star Wars ser\u00edas?",
-        "sexo": "\u00bfCu\u00e1l es la receta para ser fiel durante toda la vida?",
-        "cultura": "\u00bfC\u00f3mo se puede explicar la desaparci\u00f3n de los dinosaurios?",
-        "gore": "Si tuvieras que morir mientras practicas un deporte, \u00bfcu\u00e1l ser\u00eda?",
-        "filosofia_progreso": "Qu\u00e9 gran invenci\u00f3n querr\u00edas ver en vida?"
-    },
-    {
-        "vida_cotidiana": "\u00bfDe cu\u00e1ntas personas se puede estar enamorado al mismo tiempo?",
-        "imaginario": "Si pudieras transofmar a todos los jugadores en personajes de ficci\u00f3n, \u00bfcu\u00e1les ser\u00edan?",
-        "sexo": "\u00bfCu\u00e1l ha sido tu peor experiencia sexual?",
-        "cultura": "\u00bfQu\u00e9 hubiera pasado si Martin Luther King huiera dicho \"tengo un sue\u00f1o pero no quiero hablar de ello\"?",
-        "gore": "Si el m\u00e1s terrible de los g\u00e9rmenes tuviera la cabeza de uno de los jugadores, \u00bfcu\u00e1l tendr\u00eda?",
-        "filosofia_progreso": "\u00bfQu\u00e9 aparato electr\u00f3nico quieres que te implanten?"
-    },
-    {
-        "vida_cotidiana": "\u00bfCu\u00e1l es la tarea cotidiana que m\u00e1s te disgusta?",
-        "imaginario": "\u00bfCu\u00e1l ser\u00eda el lugar ideal para pasar de nuestro mundo a un mundo paralelo?",
-        "sexo": "\u00bfEn qu\u00e9 pa\u00eds se tiene sexo con m\u00e1s facilidad?",
-        "cultura": "Si tuvieras que convertirte a una religi\u00f3n, \u00bfcu\u00e1l escoger\u00edas?",
-        "gore": "\u00bfCon qu\u00e9 animal temer\u00edas m\u00e1s enfrentarte en una jaula?",
-        "filosofia_progreso": "\u00bfCu\u00e1l es la injusticia m\u00e1s grave?"
-    },
-    {
-        "vida_cotidiana": "\u00bfCu\u00e1l es tu mejor recuerdo del colegio?",
-        "imaginario": "\u00bfQu\u00e9 pareja perfecta de dibujos animados tendr\u00edas el placer de separar?",
-        "sexo": "\u00bfQu\u00e9 amigos escoger\u00edas para un tr\u00edo?",
-        "cultura": "Te vas de luna de miel ma\u00f1ana, \u00bfad\u00f3nde?",
-        "gore": "\u00bfDe qu\u00e9 exceso podr\u00edas morir?",
-        "filosofia_progreso": "\u00bfC\u00f3mo cambiar\u00edas t\u00fa la sociedad?"
-    },
-    {
-        "vida_cotidiana": "\u00bfCon qu\u00e9 humorista te gustar\u00eda pasar tus vacaciones?",
-        "imaginario": "\u00bfQu\u00e9 personaje de ficci\u00f3n estar\u00edas dispuesto a ver en una pel\u00edcula porno?",
-        "sexo": "Cuando uno est\u00e1 soltero, \u00bfcon qu\u00e9 frecuencia es aconsejable masturbarse?",
-        "cultura": "\u00bfQu\u00e9 sabes t\u00fa que sorprenda a todo el mundo?",
-        "gore": "En esta habitaci\u00f3n, \u00bfqu\u00eden es feo?",
-        "filosofia_progreso": "\u00bfQu\u00e9 es una pregunta de mierda?"
-    },
-    {
-        "vida_cotidiana": "\u00bfEn qu\u00e9 \u00e9poca te gustar\u00eda vivir?",
-        "imaginario": "\u00bfCu\u00e1l es el mayor tirano de todos los tiempos?",
-        "sexo": "\u00bfCu\u00e1l es el lugar perfecto para una noche de amor?",
-        "cultura": "\u00bfCua\u013a es tu expresi\u00f3n preferida?",
-        "gore": "En tu opini\u00f3n, \u00bfa qu\u00e9 deber\u00eda parecerse el infierno?",
-        "filosofia_progreso": "\u00bfCu\u00e1l ser\u00eda el problema m\u00e1s grave si la electricidad desapareciera?"
-    },
-    {
-        "vida_cotidiana": "\u00bfC\u00f3mo te ha ido el d\u00eda?",
-        "imaginario": "Cuando una familia vive feliz y tiene muchos hijos, \u00bfcu\u00e1l ser\u00eda el n\u00famero ideal?",
-        "sexo": "\u00bfCon qu\u00e9 pareja de amigos podr\u00edas ir a un club de intercambio de parejas?",
-        "cultura": "Si pudieras dividir las riquezas del mundo, \u00bfc\u00f3mo lo har\u00edas?",
-        "gore": "Si uno de los jugadores tuviera que matarte para aliviar tu sufrimiento, \u00bfa qui\u00e9n escoger\u00edas?",
-        "filosofia_progreso": "\u00bfEn qu\u00e9 momento uno se convierte en adulto?"
-    },
-    {
-        "vida_cotidiana": "\u00bfQu\u00e9 metedura de pata no contar\u00edas nunca a tus padres?",
-        "imaginario": "Si pudieras formular tres deseos como Alad\u00edn, \u00bfcu\u00e1les ser\u00edan?",
-        "sexo": "De las personas que conoces, \u00bfqui\u00e9n es la m\u00e1s sexy?",
-        "cultura": "\u00bfQu\u00e9 es la democracia?",
-        "gore": "El comandante de abordo anuncia que ha perdido el control del avi\u00f3n. \u00bfA qui\u00e9n va dirigido tu primer pensamiento?",
-        "filosofia_progreso": "\u00bfQu\u00e9 pasar\u00eda si solo dominaran el mundo las mujeres?"
-    },
-    {
-        "vida_cotidiana": "\u00bfA qu\u00e9 tres personas te llevar\u00edas a una isla desierta?",
-        "imaginario": "\u00bfQu\u00e9 agradable personaje te irrita m\u00e1s?",
-        "sexo": "Si tuvieras que hacer el amor durante un a\u00f1o en la misma posici\u00f3n, \u00bfcu\u00e1l ser\u00eda?",
-        "cultura": "\u00bfQu\u00e9 hubiera pasado si Hitler no hubiera sido elegido en 1933?",
-        "gore": "\u00bfQu\u00e9 objeto perdido ir\u00edas a recuperar a los ba\u00f1os de un festival?",
-        "filosofia_progreso": "\u00bfA partir de qu\u00e9 edad se deber\u00eda tener m\u00f3vil?"
-    },
-    {
-        "vida_cotidiana": "\u00bfQu\u00e9 acontecimiento de tu infancia habr\u00eda que cambiar?",
-        "imaginario": "\u00bfA qu\u00e9 criatura estar\u00edas dispuesto/a a adoptar y amar como a un hijo?",
-        "sexo": "\u00bfCu\u00e1l es tu mayor pesar respecto al culo?",
-        "cultura": "\u00bfCu\u00e1l es el arte marcial m\u00e1s potente?",
-        "gore": "Si tuvieras que morir haciendo el amor, \u00bfcu\u00e1l ser\u00eda la posici\u00f3n ideal?",
-        "filosofia_progreso": "\u00bfEn qu\u00e9 situaci\u00f3n es leg\u00edtimo hacer trampas?"
-    },
-    {
-        "vida_cotidiana": "\u00bfDe qu\u00e9 color ves la vida?",
-        "imaginario": "En tu opini\u00f3n, \u00bfa qu\u00e9 se parece un extraterrestre?",
-        "sexo": "\u00bfC\u00f3mo reaccionari\u00e1s si te encontraras con un transexual?",
-        "cultura": "\u00bfA qu\u00e9 artista te encantar\u00eda censurar?",
-        "gore": "Si tu pareja tuviera que estar en prisi\u00f3n 20 a\u00f1os, \u00bfcu\u00e1nto tiempo esperar\u00edas para romper?",
-        "filosofia_progreso": "\u00bfQu\u00e9 objeto ha resultado ser una invenci\u00f3n in\u00fatil?"
-    },
-    {
-        "vida_cotidiana": "Si tuvieras que irte tres a\u00f1os al extranjero, \u00bfad\u00f3nde ir\u00edas?",
-        "imaginario": "\u00bfCu\u00e1l es la mejor pel\u00edcula c\u00f3mica espa\u00f1ola?",
-        "sexo": "\u00bfCu\u00e1l es el n\u00famero m\u00e1ximo de personas con las que te acostar\u00edas a la vez?",
-        "cultura": "\u00bfCu\u00e1l es el mejor chiste que hayas escuchado nunca?",
-        "gore": "\u00bfQu\u00e9 es lo m\u00e1s asqueroso que se puede encontrar en un plato?",
-        "filosofia_progreso": "\u00bfCu\u00e1l es la falta que inspira la mayor indulgencia?"
-    },
-    {
-        "vida_cotidiana": "\u00bfQu\u00e9 te gustar\u00edan que hicieran con tu cuerpo despu\u00e9s de tu muerte?",
-        "imaginario": "\u00bfCon qu\u00e9 personaje de la saga Harry Potter saldr\u00edas una noche?",
-        "sexo": "\u00bfCu\u00e1l es el pensamiento m\u00e1s extra\u00f1o que has tenido durante una relaci\u00f3n sexual?",
-        "cultura": "\u00bfCu\u00e1l es la esclavitud moderna?",
-        "gore": "\u00bfCu\u00e1l es la m\u00e1xima minusval\u00edan que te senter\u00edas capaz de soportar?",
-        "filosofia_progreso": "Si Dios pudiera votar, \u00bfqu\u00e9 partido escoger\u00eda?"
-    },
-    {
-        "vida_cotidiana": "\u00bfC\u00f3mo se reconoce a un est\u00fapido?",
-        "imaginario": "\u00bfQu\u00e9 poderes les dar\u00edas a cada uno de los jugadores?",
-        "sexo": "\u00bfCon qu\u00e9 n\u00famero m\u00e1ximo de personas te acostar\u00edas en una noche?",
-        "cultura": "Si tuvieras que hacer una obra de arte contempor\u00e1neo, \u00bfqu\u00e9 har\u00edas?",
-        "gore": "Los siete enanitos son v\u00edctimas de una epidemia. \u00bfEn qu\u00e9 orden mueren?",
-        "filosofia_progreso": "\u00bfPor qu\u00e9 Dios cre\u00f3 al hombre antes que a la mujer?"
-    },
-    {
-        "vida_cotidiana": "\u00bfQu\u00e9 piensas del transporte p\u00fablico?",
-        "imaginario": "\u00bfQu\u00e9 canci\u00f3n te gustar\u00eda que sonara en tu funeral?",
-        "sexo": "\u00bfQu\u00e9 personas ver\u00edas en acci\u00f3n en la pel\u00edcula porno de tus sue\u00f1os?",
-        "cultura": "\u00bfCu\u00e1l ser\u00eda el t\u00edtulo de la canci\u00f3n con la que entrar\u00edas en la lista de superventas si fueras una estrella del pop?",
-        "gore": "\u00bfC\u00f3mo detectar\u00edas que un ni\u00f1o de 3 a\u00f1os es un criminal en potencia?",
-        "filosofia_progreso": "\u00bfQu\u00e9 es un berenjenal?"
-    },
-    {
-        "vida_cotidiana": "En el mejor de los casos, \u00bfcu\u00e1l ser\u00eda el oficio de la persona con la que habr\u00edas pasado tu vida?",
-        "imaginario": "\u00bfCon qu\u00e9 superh\u00e9roe te acostar\u00edas?",
-        "sexo": "\u00bfCu\u00e1l es la duraci\u00f3n ideal de una relaci\u00f3n sexual, con los preliminares incluidos?",
-        "cultura": "Acabas de colgar un cuadro en tu sal\u00f3n. \u00bfQu\u00e9 hay en \u00e9l?",
-        "gore": "\u00bfC\u00f3mo se puede romper con alguien para que sea lo m\u00e1s doloroso posible para la otra persona?",
-        "filosofia_progreso": "Te queda s\u00f3lo un minuto de vida. \u00bfQu\u00e9 tienes que decirnos?"
-    },
-    {
-        "vida_cotidiana": "Si tuvieras que cambiar tus apellidos, \u00bfc\u00f3mo te llamar\u00edas?",
-        "imaginario": "\u00bfA qu\u00e9 superh\u00e9roe tendr\u00edas el placer de privarle de sus poderes?",
-        "sexo": "\u00bfQu\u00e9 har\u00edas para simular un orgasmo?",
-        "cultura": "\u00bfQu\u00e9 peri\u00f3dico habr\u00eda que suprimir?",
-        "gore": "\u00bfCu\u00e1l es el recuerdo menos higi\u00e9nico de tu vida?",
-        "filosofia_progreso": "\u00bfQu\u00e9 har\u00edas si fueras menos est\u00fapido?"
-    },
-    {
-        "vida_cotidiana": "\u00bfCu\u00e1l es el defecto que menos te gusta de ti?",
-        "imaginario": "Si tuvieras el poder de animar a un objeto, \u00bfcu\u00e1l escoger\u00edas?",
-        "sexo": "\u00bfQu\u00e9 har\u00edas si una estrella del porno ligara contigo?",
-        "cultura": "Si tuvieras que cambiar de nacionalidad, \u00bfcu\u00e1l escoger\u00edas?",
-        "gore": "\u00bfEn qu\u00e9 lugar te desagradar\u00eda m\u00e1s hacer el amor?",
-        "filosofia_progreso": "\u00bfDe qu\u00e9 invento te gustar\u00eda ser autor?"
-    },
-    {
-        "vida_cotidiana": "Si tuvieras la posibilidad de suprimir un impuesto, \u00bfcu\u00e1l ser\u00eda?",
-        "imaginario": "\u00bfCon qu\u00e9 dibujo animado te ir\u00edas de vacaciones?",
-        "sexo": "En tu opini\u00f3n, \u00bfqui\u00e9n de los jugadores tiene el pecho m\u00e1s bonito?",
-        "cultura": "\u00bfQu\u00e9 piensas de la astrolog\u00eda?",
-        "gore": "\u00bfEn qu\u00e9 circunstancias estar\u00edas preparado para meterte en un basurero?",
-        "filosofia_progreso": "\u00bfCu\u00e1l es tu gesto cotidiano preferido pra salvar el planeta?"
-    },
-    {
-        "vida_cotidiana": "\u00bfCu\u00e1ndo hay que decir \"te quiero\" por primera vez?",
-        "imaginario": "\u00bfQu\u00e9 personaje cruel veneras en secreto?",
-        "sexo": "\u00bfA qu\u00e9 jugador autorizas a observarte mantener relaciones sexuales?",
-        "cultura": "\u00bfA qui\u00e9n otorgar\u00edas el poder si pudieras elegir?",
-        "gore": "\u00bfQu\u00e9 har\u00edas si te entereas de que tu pareja se ha prostituido para mejorar su d\u00eda a d\u00eda?",
-        "filosofia_progreso": "\u00bfCu\u00e1nto tendr\u00edan que pagarte para que aceptaras morir a los 60 a\u00f1os pase lo que pase?"
-    },
-    {
-        "vida_cotidiana": "\u00bfCu\u00e1l es la regla m\u00e1s importante para tener buena salud?",
-        "imaginario": "Si el lugar en el que estamos jugando pudiera hablar, \u00bfqu\u00e9 dir\u00eda?",
-        "sexo": "\u00bfCu\u00e1l es el plazo de tiempo ideal entre el primer beso y el acto sexual con una nueva pareja?",
-        "cultura": "\u00bfCu\u00e1l es el mejor medio para desarrollar tu cultura general?",
-        "gore": "\u00bfEn qu\u00e9 condiciones desheredar\u00edas a tus hijos?",
-        "filosofia_progreso": "\u00bfCu\u00e1l es la mayor brutalidad que has presenciado?"
-    },
-    {
-        "vida_cotidiana": "\u00bfCu\u00e1l es el lugar ideal para un lugar?",
-        "imaginario": "\u00bfCu\u00e1l es la mejor canci\u00f3n de Disney?",
-        "sexo": "\u00bfQu\u00e9 cambiar\u00edas si pudieras rivivir tu primera vez?",
-        "cultura": "\u00bfEn qu\u00e9 pa\u00eds hay m\u00e1s racistas?",
-        "gore": "Si pudieras decidir la fecha de tu muerte, \u00bfcu\u00e1ndo ser\u00eda?",
-        "filosofia_progreso": "Si tuvieras que escoger un estilo de vida radicalmente diferente, \u00bfcu\u00e1l escoger\u00edas?"
-    },
-    {
-        "vida_cotidiana": "\u00bfQu\u00e9 es una buena educaci\u00f3n?",
-        "imaginario": "\u00bfA qu\u00e9 personajes de ficci\u00f3n les divertir\u00eda ver a los ni\u00f1os?",
-        "sexo": "\u00bfCu\u00e1l es tu zona er\u00f3gena m\u00e1s sensible?",
-        "cultura": "\u00bfC\u00f3mo te imaginas \u00c1frica dentro de 50 a\u00f1os?",
-        "gore": "\u00bfQu\u00e9 te negar\u00edas a comer aunque fuera para sobrevivir?",
-        "filosofia_progreso": "\u00bfCu\u00e1ndo se puede considerar que alguien ha enga\u00f1ado a su pareja?"
-    },
-    {
-        "vida_cotidiana": "\u00bfDe qu\u00e9 color son tus bragas o calzoncillos actuales?",
-        "imaginario": "\u00bfQu\u00e9 hace Pap\u00e1 Noel el resto del a\u00f1o?",
-        "sexo": "\u00bfPor qu\u00e9 a los hombres les atraen los pechos?",
-        "cultura": "\u00bfC\u00f3mo se hace uno rico en menos de un a\u00f1o?",
-        "gore": "\u00bfCu\u00e1l es la pel\u00edcula m\u00e1s inapropiada que hayas visto nunca?",
-        "filosofia_progreso": "\u00bfCu\u00e1l es tu destino?"
-    },
-    {
-        "vida_cotidiana": "\u00bfCu\u00e1l es tu d\u00eda preferido de la semana?",
-        "imaginario": "\u00bfQu\u00e9 monstruo enviar\u00edas a la habitaci\u00f3n de tu mejor amigo para que lo asustara?",
-        "sexo": "\u00bfC\u00f3mo le explicar\u00edas a tus hijos c\u00f3mo se hacen los beb\u00e9s?",
-        "cultura": "Seg\u00fan t\u00fa, \u00bfqu\u00e9 personalidad es un modelo a seguir?",
-        "gore": "\u00bfQu\u00e9 misi\u00f3n estar\u00edas dispuesto a confiarle a tu clon?",
-        "filosofia_progreso": "\u00bfCu\u00e1l es tu ahorro de energ\u00eda preferido?"
-    },
-    {
-        "vida_cotidiana": "Si todas las tardes durante un a\u00f1o tuvieras que jugar al mismo juego de mesa, \u00bfcu\u00e1l escoger\u00edas?",
-        "imaginario": "\u00bfPor qu\u00e9 Isabel I de Castilla no se cambiaba la camisa?",
-        "sexo": "\u00bfA qu\u00e9 famoso te gustar\u00eda tirarte?",
-        "cultura": "\u00bfCu\u00e1l es la mejor adaptaci\u00f3n de un libro al cine?",
-        "gore": "Si tuvieras que montar un foll\u00f3n en una iglesia, \u00bfc\u00f3mo lo har\u00edas?",
-        "filosofia_progreso": "Solo te quedan 24 horas de vida. \u00bfQu\u00e9 haces?"
-    },
-    {
-        "vida_cotidiana": "Si tuvieras que provocarle una alergia a tu peor enemigo, \u00bfcu\u00e1l escoger\u00edas?",
-        "imaginario": "\u00bfEn qu\u00e9 videojuego querr\u00edas vivir?",
-        "sexo": "\u00bfCon qu\u00e9 ex te acostar\u00edas hasta el final de tu vida?",
-        "cultura": "\u00bfCu\u00e1l ha sido el viaje m\u00e1s hermoso que has hecho?",
-        "gore": "\u00bfCu\u00e1l es tu insulto preferido?",
-        "filosofia_progreso": "\u00bfC\u00f3mo describir\u00edas la relaci\u00f3n entre el amor y el sexo?"
-    },
-    {
-        "vida_cotidiana": "\u00bfQu\u00e9 canci\u00f3n podr\u00edas escuchar al despertarte hasta el fin de tus d\u00edas?",
-        "imaginario": "\u00bfQu\u00e9 personaje de pel\u00edcula te gustar\u00eda ser?",
-        "sexo": "\u00bfCu\u00e1l es la composici\u00f3n ideal de una org\u00eda?",
-        "cultura": "Si tuvieras que fundar un partido pol\u00edtico, \u00bfc\u00f3mo se llamar\u00eda?",
-        "gore": "\u00bfQu\u00e9 l\u00edmites fijas a tus tendencias sadomasoquistas?",
-        "filosofia_progreso": "\u00bfDe qu\u00e9 manera el hombre podr\u00eda reconciliarse con la naturaleza?"
-    },
-    {
-        "vida_cotidiana": "\u00bfQu\u00e9 circunstancias podr\u00edan llevarte a dejarlo todo?",
-        "imaginario": "\u00bfCu\u00e1l es el personaje m\u00e1s inspirador para una fiesta de disfraces?",
-        "sexo": "\u00bfD\u00f3nde est\u00e1 el punto G?",
-        "cultura": "\u00bfCu\u00e1l es el pa\u00eds cuya cultura te choca m\u00e1s?",
-        "gore": "\u00bfCon qu\u00e9 cat\u00e1strofe natural experimentar\u00edas el mayor n\u00famero de sensaciones?",
-        "filosofia_progreso": "\u00bfQu\u00e9 situaci\u00f3n justificar\u00eda que te enfadaras con alguien de por vida?"
-    },
-    {
-        "vida_cotidiana": "\u00bfComo ser\u00edan tus vacaciones ideales?",
-        "imaginario": "\u00bfQu\u00e9 historia le contar\u00edas a un ni\u00f1o para que se durmiera?",
-        "sexo": "\u00bfCu\u00e1les son tus preliminares favoritos?",
-        "cultura": "Si el hombre pudiera dialogar con una especie animal, \u00bfcu\u00e1l escoger\u00edas?",
-        "gore": "\u00bfA qu\u00e9 objeto te encantar\u00eda estar atado hasta tu muerte?",
-        "filosofia_progreso": "\u00bfCu\u00e1l es el inter\u00e9s de Internet?"
-    },
-    {
-        "vida_cotidiana": "\u00bfCu\u00e1l es la edad ideal para casarse?",
-        "imaginario": "\u00bfContra qu\u00e9 personaje de ficci\u00f3n te gustar\u00eda luchar?",
-        "sexo": "\u00bfCon qu\u00e9 jugadores te acostar\u00edas? (Sin contar tu pareja)",
-        "cultura": "\u00bfCu\u00e1l es la pel\u00edcula m\u00e1s mala que jam\u00e1s hayas visto?",
-        "gore": "\u00bfEn qu\u00e9 situaciones es importante que participes en una pelea?",
-        "filosofia_progreso": "Aparte del trueque, \u00bfqu\u00e9 propondr\u00edas t\u00fa para reemplazar el dinero?"
-    },
-    {
-        "vida_cotidiana": "\u00bfA qu\u00e9 casa de tus parientes ir\u00edas para ocupar su sal\u00f3n durante 3 meses?",
-        "imaginario": "\u00bfCu\u00e1l es la historia de amor m\u00e1s bella en la literatura?",
-        "sexo": "\u00bfCu\u00e1l es tu mejor recuerdo sexual?",
-        "cultura": "\u00bfQu\u00e9 le hubieras hecho a Bin Laden una vez capturado?",
-        "gore": "\u00bfCu\u00e1l es el accidente dom\u00e9stico m\u00e1s terrible que has tenido?",
-        "filosofia_progreso": "\u00bfA qu\u00e9 crees que se parece el para\u00edso?"
-    },
-    {
-        "vida_cotidiana": "Si tuvieras que intercambiar tu vida por la de otro jugador, \u00bfcu\u00e1l escoger\u00edas?",
-        "imaginario": "\u00bfCu\u00e1l es tu personaje Disney preferido?",
-        "sexo": "\u00bfQu\u00e9 momento de rechazo recordar\u00e1s siempre con amargura?",
-        "cultura": "Si fueras presidente, \u00bfcu\u00e1l ser\u00eda tu primera decisi\u00f3n?",
-        "gore": "Deben cortarte una parte del cuerpo, \u00bfcu\u00e1l ser\u00eda?",
-        "filosofia_progreso": "\u00bfEmpujar a alguien al suicidio ser\u00eda un asesinato?"
-    },
-    {
-        "vida_cotidiana": "\u00bfQu\u00e9 har\u00edas si te tocara la loter\u00eda?",
-        "imaginario": "\u00bfCon qu\u00e9 pel\u00edcula resultar\u00eda inhumano no llorar?",
-        "sexo": "\u00bfCu\u00e1l es tu mayor fantas\u00eda?",
-        "cultura": "\u00bfCu\u00e1l es el pa\u00eds m\u00e1s bonito del mundo?",
-        "gore": "\u00bfCu\u00e1l es tu mayor fobia?",
-        "filosofia_progreso": "\u00bfCu\u00e1ndo se podr\u00eda considerar que se ha logrado \u00e9xito en la vida?"
-    },
-    {
-        "vida_cotidiana": "\u00bfSe puede conocer varias veces al gran amor de tu vida?",
-        "imaginario": "\u00bfQu\u00e9 cuento tiene la moraleja m\u00e1s est\u00fapida?",
-        "sexo": "\u00bfA qu\u00e9 edad deber\u00eda tener uno su primera experiencia sexual?",
-        "cultura": "\u00bfCu\u00e1les son los l\u00edmites en los que el erotismo deja de ser un arte?",
-        "gore": "Aunque pudieras curarte de ella, \u00bfqu\u00e9 enfermedad no te gustar\u00eda tener?",
-        "filosofia_progreso": "\u00bfEn qu\u00e9 situaciones la mentira es leg\u00edtima?"
-    },
-    {
-        "vida_cotidiana": "\u00bfCu\u00e1l es el mayor fracaso de tu vida?",
-        "imaginario": "\u00bfQui\u00e9n es el superh\u00e9roe m\u00e1s poderoso?",
-        "sexo": "\u00bfCon qu\u00e9 persona del mismo sexo te gustar\u00eda practicar juegos sexuales?",
-        "cultura": "\u00bfQu\u00e9 m\u00fasica te gustar\u00eda que pusieran en tu entierro?",
-        "gore": "\u00bfHasta qu\u00e9 punto se podr\u00eda asustar a un ni\u00f1o?",
-        "filosofia_progreso": "Si s\u00f3lo pudiera haber un \u00fanico objeto en la vida, \u00bfcu\u00e1l ser\u00eda?"
-    },
-    {
-        "vida_cotidiana": "\u00bfQu\u00e9 le dir\u00edas a Dios para que te aceptara en el para\u00edso?",
-        "imaginario": "Si existiera un lugar que reuniera a todos los personajes de ficci\u00f3n, \u00bfte gustar\u00eda vivir all\u00ed para siempre?",
-        "sexo": "Si tuvieras el poder de hacer que se besaran dos jugadores, \u00bfa qui\u00e9nes escoger\u00edas?",
-        "cultura": "Si te cruzaras con Bob Marley, \u00bfqu\u00e9 le dir\u00edas?",
-        "gore": "\u00bfQu\u00e9 escoger\u00edas como epitafio?",
-        "filosofia_progreso": "\u00bfCu\u00e1nto tiempo queda hasta que se decida definitivamente el destino del planeta?"
-    },
-    {
-        "vida_cotidiana": "\u00bfQu\u00e9 secreto te gustar\u00eda guardarte?",
-        "imaginario": "\u00bfQu\u00e9 pesadilla te ha provocado m\u00e1s sudores fr\u00edos?",
-        "sexo": "\u00bfC\u00f3mo termina de forma ideal una relaci\u00f3n sexual?",
-        "cultura": "\u00bfCu\u00e1l es la ciudad m\u00e1s agradable para vivir?",
-        "gore": "\u00bfDespu\u00e9s de qu\u00e9 jugadores no te gustar\u00eda pasar al ba\u00f1o?",
-        "filosofia_progreso": "\u00bfQu\u00e9 es la inocencia?"
-    },
-    {
-        "vida_cotidiana": "\u00bfCu\u00e1l ha sido el encuentro m\u00e1s agradable que hayas vivido?",
-        "imaginario": "\u00bfA qu\u00e9 detective confiar\u00edas la investigaci\u00f3n del asesinato de alguien cercano?",
-        "sexo": "\u00bfCu\u00e1l es el hombre m\u00e1s sexy del mundo?",
-        "cultura": "En tu opini\u00f3n, \u00bfcu\u00e1l ha sido el peor momento de la historia de la humanidad?",
-        "gore": "Si fueras un vampiro, \u00bfa qui\u00e9n ir\u00edas a visitar para alimentarte de su sangre?",
-        "filosofia_progreso": "\u00bfQu\u00e9 sentido das a tu vida?"
-    },
-    {
-        "vida_cotidiana": "\u00bfCu\u00e1l es el lema de tu vida?",
-        "imaginario": "\u00bfQu\u00e9 escena de pel\u00edcula te hubiera encantado rodar?",
-        "sexo": "\u00bfCu\u00e1l ser\u00eda la duraci\u00f3n ideal de los preliminares?",
-        "cultura": "\u00bfCu\u00e1l es tu n\u00famero de circo preferido?",
-        "gore": "\u00bfCu\u00e1l de tus cincos sentidos estar\u00edas dispuesto a perder?",
-        "filosofia_progreso": "\u00bfCu\u00e1l es el medio de comunicaci\u00f3n m\u00e1s rid\u00edculo?"
-    },
-    {
-        "vida_cotidiana": "\u00bfEn qu\u00e9 o qui\u00e9n te gustar\u00eda reencarnarte?",
-        "imaginario": "\u00bfQu\u00e9 pel\u00edcula es la que m\u00e1s te ha marcado?",
-        "sexo": "\u00bfQu\u00e9 actividad sexual has realizado que no pensabas hacer?",
-        "cultura": "\u00bfHa sido justificable la tortura en alguna guerra?",
-        "gore": "Si fueras un zombie, \u00bfa qu\u00e9 parientes atacar\u00edas para que se volvieran como t\u00fa?",
-        "filosofia_progreso": "\u00bfC\u00f3mo se distingue el amor y la amistad?"
-    },
-    {
-        "vida_cotidiana": "\u00bfQu\u00e9 pregunta no te gustar\u00eda que te hicieran?",
-        "imaginario": "\u00bfCu\u00e1l es el superh\u00e9roe m\u00e1s aburrido?",
-        "sexo": "\u00bfQu\u00e9 no har\u00edas jam\u00e1s, aunque el amor de tu vida te lo pidiera?",
-        "cultura": "\u00bfQui\u00e9n es tu perdedor preferido?",
-        "gore": "Si tuvieras que provocar que se desbordaran las alcantarillas en una ciudad, \u00bfcu\u00e1l ser\u00eda?",
-        "filosofia_progreso": "\u00bfQu\u00e9 es la normalidad?"
-    },
-    {
-        "vida_cotidiana": "\u00bfCu\u00e1l es el oficio con el que so\u00f1abas cuando eras peque\u00f1o y que has sido incapaz de llevar a cabo?",
-        "imaginario": "\u00bfCu\u00e1les son tus 3 pel\u00edculas favoritas?",
-        "sexo": "\u00bfCu\u00e1les son los criterios de belleza en una mujer?",
-        "cultura": "\u00bfEn qu\u00e9 deporte querr\u00edas ser campe\u00f3n ol\u00edmpico?",
-        "gore": "En una disputa con tu pareja, \u00bfhasta d\u00f3nde ser\u00edas capaz de llegar?",
-        "filosofia_progreso": "\u00bfD\u00f3nde estamos en el universo?"
-    },
-    {
-        "vida_cotidiana": "Ma\u00f1ana tendr\u00e1s un hijo, \u00bfc\u00f3mo se llamar\u00eda?",
-        "imaginario": "Si fueras el hombre invisible, \u00bfad\u00f3nde ir\u00edas?",
-        "sexo": "\u00bfCu\u00e1l es la mujer m\u00e1s bella del mundo?",
-        "cultura": "\u00bfCu\u00e1l es la empresa que m\u00e1s detestas?",
-        "gore": "\u00bfQu\u00e9 parte de tu cuerpo ser\u00edas capaz de comerte?",
-        "filosofia_progreso": "\u00bfQui\u00e9n es el principal responsable del estado actual del planeta?"
-    },
-    {
-        "vida_cotidiana": "Si hubiera que llevar a cabo un robo, \u00bfen qu\u00e9 lugar te resultar\u00eda divertido?",
-        "imaginario": "\u00bfQu\u00e9 animal de Disney te gustar\u00eda tener como animal de compa\u00f1\u00eda?",
-        "sexo": "\u00bfEn qu\u00e9 parte del cuerpo de otros te fijas m\u00e1s?",
-        "cultura": "\u00bfQui\u00e9n ha sido el personaje hist\u00f3rico que m\u00e1s te gusta?",
-        "gore": "\u00bfEn qu\u00e9 situaci\u00f3n un pedo resulta embarazoso?",
-        "filosofia_progreso": "\u00bfQui\u00e9n decide lo que est\u00e1 bien y lo que est\u00e1 mal?"
-    },
-    {
-        "vida_cotidiana": "\u00bfCu\u00e1l es el tic que m\u00e1s te irrita de la gente?",
-        "imaginario": "\u00bfCu\u00e1l es tu trilog\u00eda favorita?",
-        "sexo": "\u00bfCu\u00e1les son los sindos que te encanta escuchar cuando est\u00e1s manteniendo relaciones sexuales?",
-        "cultura": "\u00bfC\u00f3mo describir\u00edas la civilizaci\u00f3n occidental?",
-        "gore": "\u00bfCua\u013ae es la pena de muerte m\u00e1s insoportable?",
-        "filosofia_progreso": "\u00bfC\u00f3mo se puede medir la inteligencia?"
-    },
-    {
-        "vida_cotidiana": "\u00bfQu\u00e9 fiesta religiosa habr\u00eda que suprimir?",
-        "imaginario": "\u00bfQu\u00e9 poder te encantar\u00eda tener?",
-        "sexo": "\u00bfCua\u013a es el mejor momento del d\u00eda para tener relaciones sexuales?",
-        "cultura": "Si tuvieras que resucitar a una persona famosa a la que hubieran asesinado, \u00bfcu\u00e1l ser\u00eda?",
-        "gore": "\u00bfCu\u00e1l ser\u00eda la \u00faltima frase que le dir\u00edas a un amigo antes de traicionarlo?",
-        "filosofia_progreso": "\u00bfCu\u00e1l es la pregunta de mierda que te hacen m\u00e1s a menudo?"
-    },
-    {
-        "vida_cotidiana": "\u00bfCu\u00e1l es el mejor amigo del hombre?",
-        "imaginario": "\u00bfQu\u00e9 gui\u00f3n de ciencia ficci\u00f3n te parece m\u00e1s realista?",
-        "sexo": "\u00bfC\u00f3mo se puede seguir amando a una persona con la que el sexo sea pe\u015bimo?",
-        "cultura": "\u00bfQu\u00e9 es un buen cazador?",
-        "gore": "\u00bfQu\u00e9 especie viva debe ser suprimida?",
-        "filosofia_progreso": "\u00bfQu\u00e9 opinas de la guerra?"
-    },
-    {
-        "vida_cotidiana": "\u00bfC\u00f3mo se reconoce a un amigo?",
-        "imaginario": "\u00bfQu\u00e9 final de pel\u00edcula habr\u00eda que modificar?",
-        "sexo": "\u00bfCu\u00e1l es el tama\u00f1o ideal de una polla?",
-        "cultura": "\u00bfQu\u00e9 pa\u00edses ser\u00e1n responsables del desencadenamiento de la tercera guerra mundial?",
-        "gore": "\u00bfEn tu opini\u00f3n, \u00bfqu\u00e9 objeto dom\u00e9stico es ideal para matar a alguien?",
-        "filosofia_progreso": "\u00bfCu\u00e1les ser\u00f1as las pr\u00f3ximas evoluciones gen\u00e9ticas en el ser humano?"
-    },
-    {
-        "vida_cotidiana": "\u00bfCu\u00e1l es el peor regalo que te han hecho?",
-        "imaginario": "\u00bfFormar\u00edas parte de los voluntarios que se van a vivir con los extraterrestres?",
-        "sexo": "\u00bfCu\u00e1l es la t\u00e9cnica m\u00e1s eficaz para seducirte?",
-        "cultura": "\u00bfEn qu\u00e9 consiste un buen libro?",
-        "gore": "Si tuvieras el poder de decidir el fin del mundo, \u00bfqu\u00e9 har\u00edas con el poder?",
-        "filosofia_progreso": "\u00bfCu\u00e1l es el verdadero problema de los adolescentes?"
-    },
-    {
-        "vida_cotidiana": "\u00bfPor qu\u00e9 motivo estar\u00edas dispuesto a endeudarte de por vida?",
-        "imaginario": "Si tuvieras el poder de hacer real un personaje de ficci\u00f3n, \u00bfcu\u00e1l escoger\u00edas?",
-        "sexo": "De tus amigos o amigas, \u00bfa qui\u00e9n quierr\u00edas tener en tu cama que no haya estado nunca?",
-        "cultura": "Si hubieras nacido pobre en un pa\u00eds en v\u00edas de desarrollo, \u00bfcu\u00e1l ser\u00eda?",
-        "gore": "Si ma\u00f1ana renacieras como un fantasma, \u00bfpor qu\u00e9 lugar vagar\u00edas?",
-        "filosofia_progreso": "\u00bfCua\u0144do se vuelve peligrosa la superstici\u00f3n?"
-    }
+  {
+    "vida_cotidiana": "¿Qué cualidad es la que más te gusta de ti mismo?",
+    "imaginario": "¿A qué personaje de Friends te sientes más cercano?",
+    "sexo": "¿Qué te gusta hacer después del sexo?",
+    "cultura": "¿Cuáles son las tres obras que te llevarías a una isla desierta?",
+    "gore": "Si el amor de tu vida te confesara que está siendo buscado por asesinato, ¿qué harías?",
+    "filosofia_progreso": "¿Qué es la locura?"
+  },
+  {
+    "vida_cotidiana": "¿Qué es lo peor que te podría pasar?",
+    "imaginario": "¿Qué personaje de Star Wars serías?",
+    "sexo": "¿Cuál es la receta para ser fiel durante toda la vida?",
+    "cultura": "¿Cómo se puede explicar la desaparción de los dinosaurios?",
+    "gore": "Si tuvieras que morir mientras practicas un deporte, ¿cuál sería?",
+    "filosofia_progreso": "Qué gran invención querrías ver en vida?"
+  },
+  {
+    "vida_cotidiana": "¿De cuántas personas se puede estar enamorado al mismo tiempo?",
+    "imaginario": "Si pudieras transofmar a todos los jugadores en personajes de ficción, ¿cuáles serían?",
+    "sexo": "¿Cuál ha sido tu peor experiencia sexual?",
+    "cultura": "¿Qué hubiera pasado si Martin Luther King huiera dicho \"tengo un sueño pero no quiero hablar de ello\"?",
+    "gore": "Si el más terrible de los gérmenes tuviera la cabeza de uno de los jugadores, ¿cuál tendría?",
+    "filosofia_progreso": "¿Qué aparato electrónico quieres que te implanten?"
+  },
+  {
+    "vida_cotidiana": "¿Cuál es la tarea cotidiana que más te disgusta?",
+    "imaginario": "¿Cuál sería el lugar ideal para pasar de nuestro mundo a un mundo paralelo?",
+    "sexo": "¿En qué país se tiene sexo con más facilidad?",
+    "cultura": "Si tuvieras que convertirte a una religión, ¿cuál escogerías?",
+    "gore": "¿Con qué animal temerías más enfrentarte en una jaula?",
+    "filosofia_progreso": "¿Cuál es la injusticia más grave?"
+  },
+  {
+    "vida_cotidiana": "¿Cuál es tu mejor recuerdo del colegio?",
+    "imaginario": "¿Qué pareja perfecta de dibujos animados tendrías el placer de separar?",
+    "sexo": "¿Qué amigos escogerías para un trío?",
+    "cultura": "Te vas de luna de miel mañana, ¿adónde?",
+    "gore": "¿De qué exceso podrías morir?",
+    "filosofia_progreso": "¿Cómo cambiarías tú la sociedad?"
+  },
+  {
+    "vida_cotidiana": "¿Con qué humorista te gustaría pasar tus vacaciones?",
+    "imaginario": "¿Qué personaje de ficción estarías dispuesto a ver en una película porno?",
+    "sexo": "Cuando uno está soltero, ¿con qué frecuencia es aconsejable masturbarse?",
+    "cultura": "¿Qué sabes tú que sorprenda a todo el mundo?",
+    "gore": "En esta habitación, ¿quíen es feo?",
+    "filosofia_progreso": "¿Qué es una pregunta de mierda?"
+  },
+  {
+    "vida_cotidiana": "¿En qué época te gustaría vivir?",
+    "imaginario": "¿Cuál es el mayor tirano de todos los tiempos?",
+    "sexo": "¿Cuál es el lugar perfecto para una noche de amor?",
+    "cultura": "¿Cuaĺ es tu expresión preferida?",
+    "gore": "En tu opinión, ¿a qué debería parecerse el infierno?",
+    "filosofia_progreso": "¿Cuál sería el problema más grave si la electricidad desapareciera?"
+  },
+  {
+    "vida_cotidiana": "¿Cómo te ha ido el día?",
+    "imaginario": "Cuando una familia vive feliz y tiene muchos hijos, ¿cuál sería el número ideal?",
+    "sexo": "¿Con qué pareja de amigos podrías ir a un club de intercambio de parejas?",
+    "cultura": "Si pudieras dividir las riquezas del mundo, ¿cómo lo harías?",
+    "gore": "Si uno de los jugadores tuviera que matarte para aliviar tu sufrimiento, ¿a quién escogerías?",
+    "filosofia_progreso": "¿En qué momento uno se convierte en adulto?"
+  },
+  {
+    "vida_cotidiana": "¿Qué metedura de pata no contarías nunca a tus padres?",
+    "imaginario": "Si pudieras formular tres deseos como Aladín, ¿cuáles serían?",
+    "sexo": "De las personas que conoces, ¿quién es la más sexy?",
+    "cultura": "¿Qué es la democracia?",
+    "gore": "El comandante de abordo anuncia que ha perdido el control del avión. ¿A quién va dirigido tu primer pensamiento?",
+    "filosofia_progreso": "¿Qué pasaría si solo dominaran el mundo las mujeres?"
+  },
+  {
+    "vida_cotidiana": "¿A qué tres personas te llevarías a una isla desierta?",
+    "imaginario": "¿Qué agradable personaje te irrita más?",
+    "sexo": "Si tuvieras que hacer el amor durante un año en la misma posición, ¿cuál sería?",
+    "cultura": "¿Qué hubiera pasado si Hitler no hubiera sido elegido en 1933?",
+    "gore": "¿Qué objeto perdido irías a recuperar a los baños de un festival?",
+    "filosofia_progreso": "¿A partir de qué edad se debería tener móvil?"
+  },
+  {
+    "vida_cotidiana": "¿Qué acontecimiento de tu infancia habría que cambiar?",
+    "imaginario": "¿A qué criatura estarías dispuesto/a a adoptar y amar como a un hijo?",
+    "sexo": "¿Cuál es tu mayor pesar respecto al culo?",
+    "cultura": "¿Cuál es el arte marcial más potente?",
+    "gore": "Si tuvieras que morir haciendo el amor, ¿cuál sería la posición ideal?",
+    "filosofia_progreso": "¿En qué situación es legítimo hacer trampas?"
+  },
+  {
+    "vida_cotidiana": "¿De qué color ves la vida?",
+    "imaginario": "En tu opinión, ¿a qué se parece un extraterrestre?",
+    "sexo": "¿Cómo reaccionariás si te encontraras con un transexual?",
+    "cultura": "¿A qué artista te encantaría censurar?",
+    "gore": "Si tu pareja tuviera que estar en prisión 20 años, ¿cuánto tiempo esperarías para romper?",
+    "filosofia_progreso": "¿Qué objeto ha resultado ser una invención inútil?"
+  },
+  {
+    "vida_cotidiana": "Si tuvieras que irte tres años al extranjero, ¿adónde irías?",
+    "imaginario": "¿Cuál es la mejor película cómica española?",
+    "sexo": "¿Cuál es el número máximo de personas con las que te acostarías a la vez?",
+    "cultura": "¿Cuál es el mejor chiste que hayas escuchado nunca?",
+    "gore": "¿Qué es lo más asqueroso que se puede encontrar en un plato?",
+    "filosofia_progreso": "¿Cuál es la falta que inspira la mayor indulgencia?"
+  },
+  {
+    "vida_cotidiana": "¿Qué te gustarían que hicieran con tu cuerpo después de tu muerte?",
+    "imaginario": "¿Con qué personaje de la saga Harry Potter saldrías una noche?",
+    "sexo": "¿Cuál es el pensamiento más extraño que has tenido durante una relación sexual?",
+    "cultura": "¿Cuál es la esclavitud moderna?",
+    "gore": "¿Cuál es la máxima minusvalían que te senterías capaz de soportar?",
+    "filosofia_progreso": "Si Dios pudiera votar, ¿qué partido escogería?"
+  },
+  {
+    "vida_cotidiana": "¿Cómo se reconoce a un estúpido?",
+    "imaginario": "¿Qué poderes les darías a cada uno de los jugadores?",
+    "sexo": "¿Con qué número máximo de personas te acostarías en una noche?",
+    "cultura": "Si tuvieras que hacer una obra de arte contemporáneo, ¿qué harías?",
+    "gore": "Los siete enanitos son víctimas de una epidemia. ¿En qué orden mueren?",
+    "filosofia_progreso": "¿Por qué Dios creó al hombre antes que a la mujer?"
+  },
+  {
+    "vida_cotidiana": "¿Qué piensas del transporte público?",
+    "imaginario": "¿Qué canción te gustaría que sonara en tu funeral?",
+    "sexo": "¿Qué personas verías en acción en la película porno de tus sueños?",
+    "cultura": "¿Cuál sería el título de la canción con la que entrarías en la lista de superventas si fueras una estrella del pop?",
+    "gore": "¿Cómo detectarías que un niño de 3 años es un criminal en potencia?",
+    "filosofia_progreso": "¿Qué es un berenjenal?"
+  },
+  {
+    "vida_cotidiana": "En el mejor de los casos, ¿cuál sería el oficio de la persona con la que habrías pasado tu vida?",
+    "imaginario": "¿Con qué superhéroe te acostarías?",
+    "sexo": "¿Cuál es la duración ideal de una relación sexual, con los preliminares incluidos?",
+    "cultura": "Acabas de colgar un cuadro en tu salón. ¿Qué hay en él?",
+    "gore": "¿Cómo se puede romper con alguien para que sea lo más doloroso posible para la otra persona?",
+    "filosofia_progreso": "Te queda sólo un minuto de vida. ¿Qué tienes que decirnos?"
+  },
+  {
+    "vida_cotidiana": "Si tuvieras que cambiar tus apellidos, ¿cómo te llamarías?",
+    "imaginario": "¿A qué superhéroe tendrías el placer de privarle de sus poderes?",
+    "sexo": "¿Qué harías para simular un orgasmo?",
+    "cultura": "¿Qué periódico habría que suprimir?",
+    "gore": "¿Cuál es el recuerdo menos higiénico de tu vida?",
+    "filosofia_progreso": "¿Qué harías si fueras menos estúpido?"
+  },
+  {
+    "vida_cotidiana": "¿Cuál es el defecto que menos te gusta de ti?",
+    "imaginario": "Si tuvieras el poder de animar a un objeto, ¿cuál escogerías?",
+    "sexo": "¿Qué harías si una estrella del porno ligara contigo?",
+    "cultura": "Si tuvieras que cambiar de nacionalidad, ¿cuál escogerías?",
+    "gore": "¿En qué lugar te desagradaría más hacer el amor?",
+    "filosofia_progreso": "¿De qué invento te gustaría ser autor?"
+  },
+  {
+    "vida_cotidiana": "Si tuvieras la posibilidad de suprimir un impuesto, ¿cuál sería?",
+    "imaginario": "¿Con qué dibujo animado te irías de vacaciones?",
+    "sexo": "En tu opinión, ¿quién de los jugadores tiene el pecho más bonito?",
+    "cultura": "¿Qué piensas de la astrología?",
+    "gore": "¿En qué circunstancias estarías preparado para meterte en un basurero?",
+    "filosofia_progreso": "¿Cuál es tu gesto cotidiano preferido pra salvar el planeta?"
+  },
+  {
+    "vida_cotidiana": "¿Cuándo hay que decir \"te quiero\" por primera vez?",
+    "imaginario": "¿Qué personaje cruel veneras en secreto?",
+    "sexo": "¿A qué jugador autorizas a observarte mantener relaciones sexuales?",
+    "cultura": "¿A quién otorgarías el poder si pudieras elegir?",
+    "gore": "¿Qué harías si te entereas de que tu pareja se ha prostituido para mejorar su día a día?",
+    "filosofia_progreso": "¿Cuánto tendrían que pagarte para que aceptaras morir a los 60 años pase lo que pase?"
+  },
+  {
+    "vida_cotidiana": "¿Cuál es la regla más importante para tener buena salud?",
+    "imaginario": "Si el lugar en el que estamos jugando pudiera hablar, ¿qué diría?",
+    "sexo": "¿Cuál es el plazo de tiempo ideal entre el primer beso y el acto sexual con una nueva pareja?",
+    "cultura": "¿Cuál es el mejor medio para desarrollar tu cultura general?",
+    "gore": "¿En qué condiciones desheredarías a tus hijos?",
+    "filosofia_progreso": "¿Cuál es la mayor brutalidad que has presenciado?"
+  },
+  {
+    "vida_cotidiana": "¿Cuál es el lugar ideal para un lugar?",
+    "imaginario": "¿Cuál es la mejor canción de Disney?",
+    "sexo": "¿Qué cambiarías si pudieras rivivir tu primera vez?",
+    "cultura": "¿En qué país hay más racistas?",
+    "gore": "Si pudieras decidir la fecha de tu muerte, ¿cuándo sería?",
+    "filosofia_progreso": "Si tuvieras que escoger un estilo de vida radicalmente diferente, ¿cuál escogerías?"
+  },
+  {
+    "vida_cotidiana": "¿Qué es una buena educación?",
+    "imaginario": "¿A qué personajes de ficción les divertiría ver a los niños?",
+    "sexo": "¿Cuál es tu zona erógena más sensible?",
+    "cultura": "¿Cómo te imaginas África dentro de 50 años?",
+    "gore": "¿Qué te negarías a comer aunque fuera para sobrevivir?",
+    "filosofia_progreso": "¿Cuándo se puede considerar que alguien ha engañado a su pareja?"
+  },
+  {
+    "vida_cotidiana": "¿De qué color son tus bragas o calzoncillos actuales?",
+    "imaginario": "¿Qué hace Papá Noel el resto del año?",
+    "sexo": "¿Por qué a los hombres les atraen los pechos?",
+    "cultura": "¿Cómo se hace uno rico en menos de un año?",
+    "gore": "¿Cuál es la película más inapropiada que hayas visto nunca?",
+    "filosofia_progreso": "¿Cuál es tu destino?"
+  },
+  {
+    "vida_cotidiana": "¿Cuál es tu día preferido de la semana?",
+    "imaginario": "¿Qué monstruo enviarías a la habitación de tu mejor amigo para que lo asustara?",
+    "sexo": "¿Cómo le explicarías a tus hijos cómo se hacen los bebés?",
+    "cultura": "Según tú, ¿qué personalidad es un modelo a seguir?",
+    "gore": "¿Qué misión estarías dispuesto a confiarle a tu clon?",
+    "filosofia_progreso": "¿Cuál es tu ahorro de energía preferido?"
+  },
+  {
+    "vida_cotidiana": "Si todas las tardes durante un año tuvieras que jugar al mismo juego de mesa, ¿cuál escogerías?",
+    "imaginario": "¿Por qué Isabel I de Castilla no se cambiaba la camisa?",
+    "sexo": "¿A qué famoso te gustaría tirarte?",
+    "cultura": "¿Cuál es la mejor adaptación de un libro al cine?",
+    "gore": "Si tuvieras que montar un follón en una iglesia, ¿cómo lo harías?",
+    "filosofia_progreso": "Solo te quedan 24 horas de vida. ¿Qué haces?"
+  },
+  {
+    "vida_cotidiana": "Si tuvieras que provocarle una alergia a tu peor enemigo, ¿cuál escogerías?",
+    "imaginario": "¿En qué videojuego querrías vivir?",
+    "sexo": "¿Con qué ex te acostarías hasta el final de tu vida?",
+    "cultura": "¿Cuál ha sido el viaje más hermoso que has hecho?",
+    "gore": "¿Cuál es tu insulto preferido?",
+    "filosofia_progreso": "¿Cómo describirías la relación entre el amor y el sexo?"
+  },
+  {
+    "vida_cotidiana": "¿Qué canción podrías escuchar al despertarte hasta el fin de tus días?",
+    "imaginario": "¿Qué personaje de película te gustaría ser?",
+    "sexo": "¿Cuál es la composición ideal de una orgía?",
+    "cultura": "Si tuvieras que fundar un partido político, ¿cómo se llamaría?",
+    "gore": "¿Qué límites fijas a tus tendencias sadomasoquistas?",
+    "filosofia_progreso": "¿De qué manera el hombre podría reconciliarse con la naturaleza?"
+  },
+  {
+    "vida_cotidiana": "¿Qué circunstancias podrían llevarte a dejarlo todo?",
+    "imaginario": "¿Cuál es el personaje más inspirador para una fiesta de disfraces?",
+    "sexo": "¿Dónde está el punto G?",
+    "cultura": "¿Cuál es el país cuya cultura te choca más?",
+    "gore": "¿Con qué catástrofe natural experimentarías el mayor número de sensaciones?",
+    "filosofia_progreso": "¿Qué situación justificaría que te enfadaras con alguien de por vida?"
+  },
+  {
+    "vida_cotidiana": "¿Como serían tus vacaciones ideales?",
+    "imaginario": "¿Qué historia le contarías a un niño para que se durmiera?",
+    "sexo": "¿Cuáles son tus preliminares favoritos?",
+    "cultura": "Si el hombre pudiera dialogar con una especie animal, ¿cuál escogerías?",
+    "gore": "¿A qué objeto te encantaría estar atado hasta tu muerte?",
+    "filosofia_progreso": "¿Cuál es el interés de Internet?"
+  },
+  {
+    "vida_cotidiana": "¿Cuál es la edad ideal para casarse?",
+    "imaginario": "¿Contra qué personaje de ficción te gustaría luchar?",
+    "sexo": "¿Con qué jugadores te acostarías? (Sin contar tu pareja)",
+    "cultura": "¿Cuál es la película más mala que jamás hayas visto?",
+    "gore": "¿En qué situaciones es importante que participes en una pelea?",
+    "filosofia_progreso": "Aparte del trueque, ¿qué propondrías tú para reemplazar el dinero?"
+  },
+  {
+    "vida_cotidiana": "¿A qué casa de tus parientes irías para ocupar su salón durante 3 meses?",
+    "imaginario": "¿Cuál es la historia de amor más bella en la literatura?",
+    "sexo": "¿Cuál es tu mejor recuerdo sexual?",
+    "cultura": "¿Qué le hubieras hecho a Bin Laden una vez capturado?",
+    "gore": "¿Cuál es el accidente doméstico más terrible que has tenido?",
+    "filosofia_progreso": "¿A qué crees que se parece el paraíso?"
+  },
+  {
+    "vida_cotidiana": "Si tuvieras que intercambiar tu vida por la de otro jugador, ¿cuál escogerías?",
+    "imaginario": "¿Cuál es tu personaje Disney preferido?",
+    "sexo": "¿Qué momento de rechazo recordarás siempre con amargura?",
+    "cultura": "Si fueras presidente, ¿cuál sería tu primera decisión?",
+    "gore": "Deben cortarte una parte del cuerpo, ¿cuál sería?",
+    "filosofia_progreso": "¿Empujar a alguien al suicidio sería un asesinato?"
+  },
+  {
+    "vida_cotidiana": "¿Qué harías si te tocara la lotería?",
+    "imaginario": "¿Con qué película resultaría inhumano no llorar?",
+    "sexo": "¿Cuál es tu mayor fantasía?",
+    "cultura": "¿Cuál es el país más bonito del mundo?",
+    "gore": "¿Cuál es tu mayor fobia?",
+    "filosofia_progreso": "¿Cuándo se podría considerar que se ha logrado éxito en la vida?"
+  },
+  {
+    "vida_cotidiana": "¿Se puede conocer varias veces al gran amor de tu vida?",
+    "imaginario": "¿Qué cuento tiene la moraleja más estúpida?",
+    "sexo": "¿A qué edad debería tener uno su primera experiencia sexual?",
+    "cultura": "¿Cuáles son los límites en los que el erotismo deja de ser un arte?",
+    "gore": "Aunque pudieras curarte de ella, ¿qué enfermedad no te gustaría tener?",
+    "filosofia_progreso": "¿En qué situaciones la mentira es legítima?"
+  },
+  {
+    "vida_cotidiana": "¿Cuál es el mayor fracaso de tu vida?",
+    "imaginario": "¿Quién es el superhéroe más poderoso?",
+    "sexo": "¿Con qué persona del mismo sexo te gustaría practicar juegos sexuales?",
+    "cultura": "¿Qué música te gustaría que pusieran en tu entierro?",
+    "gore": "¿Hasta qué punto se podría asustar a un niño?",
+    "filosofia_progreso": "Si sólo pudiera haber un único objeto en la vida, ¿cuál sería?"
+  },
+  {
+    "vida_cotidiana": "¿Qué le dirías a Dios para que te aceptara en el paraíso?",
+    "imaginario": "Si existiera un lugar que reuniera a todos los personajes de ficción, ¿te gustaría vivir allí para siempre?",
+    "sexo": "Si tuvieras el poder de hacer que se besaran dos jugadores, ¿a quiénes escogerías?",
+    "cultura": "Si te cruzaras con Bob Marley, ¿qué le dirías?",
+    "gore": "¿Qué escogerías como epitafio?",
+    "filosofia_progreso": "¿Cuánto tiempo queda hasta que se decida definitivamente el destino del planeta?"
+  },
+  {
+    "vida_cotidiana": "¿Qué secreto te gustaría guardarte?",
+    "imaginario": "¿Qué pesadilla te ha provocado más sudores fríos?",
+    "sexo": "¿Cómo termina de forma ideal una relación sexual?",
+    "cultura": "¿Cuál es la ciudad más agradable para vivir?",
+    "gore": "¿Después de qué jugadores no te gustaría pasar al baño?",
+    "filosofia_progreso": "¿Qué es la inocencia?"
+  },
+  {
+    "vida_cotidiana": "¿Cuál ha sido el encuentro más agradable que hayas vivido?",
+    "imaginario": "¿A qué detective confiarías la investigación del asesinato de alguien cercano?",
+    "sexo": "¿Cuál es el hombre más sexy del mundo?",
+    "cultura": "En tu opinión, ¿cuál ha sido el peor momento de la historia de la humanidad?",
+    "gore": "Si fueras un vampiro, ¿a quién irías a visitar para alimentarte de su sangre?",
+    "filosofia_progreso": "¿Qué sentido das a tu vida?"
+  },
+  {
+    "vida_cotidiana": "¿Cuál es el lema de tu vida?",
+    "imaginario": "¿Qué escena de película te hubiera encantado rodar?",
+    "sexo": "¿Cuál sería la duración ideal de los preliminares?",
+    "cultura": "¿Cuál es tu número de circo preferido?",
+    "gore": "¿Cuál de tus cincos sentidos estarías dispuesto a perder?",
+    "filosofia_progreso": "¿Cuál es el medio de comunicación más ridículo?"
+  },
+  {
+    "vida_cotidiana": "¿En qué o quién te gustaría reencarnarte?",
+    "imaginario": "¿Qué película es la que más te ha marcado?",
+    "sexo": "¿Qué actividad sexual has realizado que no pensabas hacer?",
+    "cultura": "¿Ha sido justificable la tortura en alguna guerra?",
+    "gore": "Si fueras un zombie, ¿a qué parientes atacarías para que se volvieran como tú?",
+    "filosofia_progreso": "¿Cómo se distingue el amor y la amistad?"
+  },
+  {
+    "vida_cotidiana": "¿Qué pregunta no te gustaría que te hicieran?",
+    "imaginario": "¿Cuál es el superhéroe más aburrido?",
+    "sexo": "¿Qué no harías jamás, aunque el amor de tu vida te lo pidiera?",
+    "cultura": "¿Quién es tu perdedor preferido?",
+    "gore": "Si tuvieras que provocar que se desbordaran las alcantarillas en una ciudad, ¿cuál sería?",
+    "filosofia_progreso": "¿Qué es la normalidad?"
+  },
+  {
+    "vida_cotidiana": "¿Cuál es el oficio con el que soñabas cuando eras pequeño y que has sido incapaz de llevar a cabo?",
+    "imaginario": "¿Cuáles son tus 3 películas favoritas?",
+    "sexo": "¿Cuáles son los criterios de belleza en una mujer?",
+    "cultura": "¿En qué deporte querrías ser campeón olímpico?",
+    "gore": "En una disputa con tu pareja, ¿hasta dónde serías capaz de llegar?",
+    "filosofia_progreso": "¿Dónde estamos en el universo?"
+  },
+  {
+    "vida_cotidiana": "Mañana tendrás un hijo, ¿cómo se llamaría?",
+    "imaginario": "Si fueras el hombre invisible, ¿adónde irías?",
+    "sexo": "¿Cuál es la mujer más bella del mundo?",
+    "cultura": "¿Cuál es la empresa que más detestas?",
+    "gore": "¿Qué parte de tu cuerpo serías capaz de comerte?",
+    "filosofia_progreso": "¿Quién es el principal responsable del estado actual del planeta?"
+  },
+  {
+    "vida_cotidiana": "Si hubiera que llevar a cabo un robo, ¿en qué lugar te resultaría divertido?",
+    "imaginario": "¿Qué animal de Disney te gustaría tener como animal de compañía?",
+    "sexo": "¿En qué parte del cuerpo de otros te fijas más?",
+    "cultura": "¿Quién ha sido el personaje histórico que más te gusta?",
+    "gore": "¿En qué situación un pedo resulta embarazoso?",
+    "filosofia_progreso": "¿Quién decide lo que está bien y lo que está mal?"
+  },
+  {
+    "vida_cotidiana": "¿Cuál es el tic que más te irrita de la gente?",
+    "imaginario": "¿Cuál es tu trilogía favorita?",
+    "sexo": "¿Cuáles son los sindos que te encanta escuchar cuando estás manteniendo relaciones sexuales?",
+    "cultura": "¿Cómo describirías la civilización occidental?",
+    "gore": "¿Cuaĺe es la pena de muerte más insoportable?",
+    "filosofia_progreso": "¿Cómo se puede medir la inteligencia?"
+  },
+  {
+    "vida_cotidiana": "¿Qué fiesta religiosa habría que suprimir?",
+    "imaginario": "¿Qué poder te encantaría tener?",
+    "sexo": "¿Cuaĺ es el mejor momento del día para tener relaciones sexuales?",
+    "cultura": "Si tuvieras que resucitar a una persona famosa a la que hubieran asesinado, ¿cuál sería?",
+    "gore": "¿Cuál sería la última frase que le dirías a un amigo antes de traicionarlo?",
+    "filosofia_progreso": "¿Cuál es la pregunta de mierda que te hacen más a menudo?"
+  },
+  {
+    "vida_cotidiana": "¿Cuál es el mejor amigo del hombre?",
+    "imaginario": "¿Qué guión de ciencia ficción te parece más realista?",
+    "sexo": "¿Cómo se puede seguir amando a una persona con la que el sexo sea peśimo?",
+    "cultura": "¿Qué es un buen cazador?",
+    "gore": "¿Qué especie viva debe ser suprimida?",
+    "filosofia_progreso": "¿Qué opinas de la guerra?"
+  },
+  {
+    "vida_cotidiana": "¿Cómo se reconoce a un amigo?",
+    "imaginario": "¿Qué final de película habría que modificar?",
+    "sexo": "¿Cuál es el tamaño ideal de una polla?",
+    "cultura": "¿Qué países serán responsables del desencadenamiento de la tercera guerra mundial?",
+    "gore": "¿En tu opinión, ¿qué objeto doméstico es ideal para matar a alguien?",
+    "filosofia_progreso": "¿Cuáles serñas las próximas evoluciones genéticas en el ser humano?"
+  },
+  {
+    "vida_cotidiana": "¿Cuál es el peor regalo que te han hecho?",
+    "imaginario": "¿Formarías parte de los voluntarios que se van a vivir con los extraterrestres?",
+    "sexo": "¿Cuál es la técnica más eficaz para seducirte?",
+    "cultura": "¿En qué consiste un buen libro?",
+    "gore": "Si tuvieras el poder de decidir el fin del mundo, ¿qué harías con el poder?",
+    "filosofia_progreso": "¿Cuál es el verdadero problema de los adolescentes?"
+  },
+  {
+    "vida_cotidiana": "¿Por qué motivo estarías dispuesto a endeudarte de por vida?",
+    "imaginario": "Si tuvieras el poder de hacer real un personaje de ficción, ¿cuál escogerías?",
+    "sexo": "De tus amigos o amigas, ¿a quién quierrías tener en tu cama que no haya estado nunca?",
+    "cultura": "Si hubieras nacido pobre en un país en vías de desarrollo, ¿cuál sería?",
+    "gore": "Si mañana renacieras como un fantasma, ¿por qué lugar vagarías?",
+    "filosofia_progreso": "¿Cuańdo se vuelve peligrosa la superstición?"
+  }
 ]
