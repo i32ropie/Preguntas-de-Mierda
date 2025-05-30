@@ -1,9 +1,18 @@
 import telebot
+import os
 from telebot import types
+from dotenv import load_dotenv
 import json
 import random
 
-bot = telebot.TeleBot('token')
+# Carga las variables de entorno desde el archivo .env
+load_dotenv()
+
+# Obtiene la variable de entorno 'BOT_TOKEN'
+token = os.getenv('BOT_TOKEN')
+
+# Creamos una instancia del bot
+bot = telebot.TeleBot(token)
 
 with open('preguntas.json') as f: preguntas = json.load(f)
 
